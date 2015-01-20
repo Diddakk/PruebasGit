@@ -1,8 +1,18 @@
 
+/**
+ * 
+ */
+
+/**
+ * @author alumne
+ *
+ */
 public class Proves3 {
 
-	public Proves3() {
-		// TODO Auto-generated constructor stub
+
+	public static void main(String[] args) {
+		System.out.println("hola3");
+
 	}
 
 }
